@@ -29,7 +29,7 @@
   
   font-family: 'Raleway';
   font-style: normal;
-  font-weight: 500;
+  font-weight: 600;
   font-size: 20px;
   line-height: 130%;
   /* or 26px */
@@ -44,8 +44,6 @@
 
 .v116_82 {
   position: absolute;
-  width: 1171px;
-  height: 31px;
   left: 375px;
   top: 33px;
   
@@ -96,7 +94,7 @@ left: 15%;
 text-align: center;
 font-family: 'Raleway';
 font-style: normal;
-font-weight: 800;
+font-weight: 700;
 font-size: 17px;
 line-height: 20px;
 /* identical to box height */
@@ -107,6 +105,9 @@ text-transform: uppercase;
 /* brand / black */
 
 color: #000000;
+}
+.colortext {
+  color: #FFFFFF; /* Красный цвет выделения */
 }
 .group {
   position: absolute;
@@ -166,16 +167,16 @@ a {
 .v116_85 {
   position: absolute;
   width: 806px;
-  height: 170px;
+  height: 94px;
   left: 350px;
   top: 192px;
   
   font-family: 'Raleway';
   font-style: normal;
-  font-weight: 900;
+  font-weight: 700;
   font-size: 76px;
   line-height: 123.1%;
-  /* or 94px */
+  /* identical to box height, or 94px */
   
   
   /* ааа */
@@ -184,6 +185,30 @@ a {
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
   background-clip: text;
+  text-fill-color: transparent;
+}
+.v116_854 {
+  position: absolute;
+  width: 476px;
+  height: 79px;
+  left: 350px;
+  top: 283px;
+  
+  font-family: 'Raleway';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 64px;
+  line-height: 123.1%;
+  /* identical to box height, or 79px */
+  
+  
+  /* ааа */
+  
+  background: linear-gradient(94.43deg, #FDE0BC 6.69%, #EEBA82 75.91%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+  text-fill-color: transparent;
 }
 
 .v109_571 {
