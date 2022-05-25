@@ -3,7 +3,7 @@
 }
 
 .v116_78 {
-  background: url("../images/background.png");
+  background: url("background.png");
   position: absolute;
   width: 1920px;
   height: 919px;
@@ -12,7 +12,7 @@
 }
 
 .sponsors {
-  background: url("../images/sponsors.png");
+  background: url("sponsors.png");
   position: absolute;
   width: 1920px;
   height: 176px;
@@ -368,7 +368,7 @@ left: 20%;
 .v109_587 {
   width: 32px;
   height: 32px;
-  background: url("../images/v109_587.png");
+  background: url("v109_587.png");
   opacity: 1;
   position: relative;
   top: 0px;
@@ -386,7 +386,7 @@ left: 20%;
 .v109_590 {
   width: 32px;
   height: 32px;
-  background: url("../images/v109_590.png");
+  background: url("v109_590.png");
   opacity: 1;
   position: relative;
   top: 0px;
@@ -407,7 +407,7 @@ left: 20%;
 .v109_592 {
   width: 14px;
   height: 14px;
-  background: url("../images/v109_592.png");
+  background: url("v109_592.png");
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
